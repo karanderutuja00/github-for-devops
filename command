@@ -31,3 +31,22 @@ ls
    31  ls
    32  git status
    33  history
+ 34  cat >command
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit -m "added command"
+   39  git status
+   40  git remote add origin https://github.com/karanderutuja00/github-for-devops.git
+   41  git remote -v
+   42  git remote set-url origin https://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@github.com/karanderutuja00/github-for-devops.git
+   43  git remote -v
+   44  git push origin master
+   45  ls
+   46  cd github-for-devops
+   47  ls -a
+   48  cat testing
+   49  cat command
+   50  history
+
+
